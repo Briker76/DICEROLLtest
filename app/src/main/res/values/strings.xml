@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A Rodar Dados</string>
+    <string name="roll_label">Rodar</string>
+    <string name="Lanzar_dado">Lanza Dado!</string>
+    <string name="reinicio">Reinicio</string>
+    <string name="a_rodar">A Rodar!</string>
+    <string name="gracias">gracias</string>
+</resources>
